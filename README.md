@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">Hello! I'm Dorrego Braian a Full Stack Developer from Argentina.<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<br/>
+<br/>
+  
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-<!--
-**DorregoBraian/DorregoBraian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<br/>
 
-Here are some ideas to get you started:
+<table>
+  <tr>
+    <td >
+      <img  src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="GIF" width= "320" height= "240" />
+  </td>
+    <td>
+      <pre>
+I-am-vishalmaurya@github
+-------------------------
+💻 I am a self-taught, Freelance full stack developer
+📚 I have a degree in Computer Engineering from the UNAJ University in Argentina
+📝 I have a great interest in the area of ​​Web and Mobile dev and Robotics
+🔭 I work as a Freelance Full Stack Developer
+🌱 Learning about Computer Vision and Machine Learning stuff
+🌟 Main languages: .net, EF.Core, C#, PosgreSQL, Angular
+🚩 Interested in developing full stack Web and Mobile Applications
+💖 I love coffee, music, the gym, games
+      </pre>
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br/>
+
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<h3>Front End</h3> 
+<p>
+<img width="450px"  src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,vue,angular&perline=10"  />
+</p>
+<h3>Backend</h3>
+<p>
+<img width="200px"  src="https://skillicons.dev/icons?i=cs,dotnet,linq&perline=10"  />
+</p>
+<h3>Data Base</h3> 
+<p>
+<img width="200px"  src="https://skillicons.dev/icons?i=postgres,mysql,mongo&perline=10"/>
+</p>
+<h3>Tools Developer</h3> 
+<p>
+<img width="450px"  src="https://skillicons.dev/icons?i=visualstudio,vscode,docker,git,github,firebase,bootstrap&perline=10"/>
+</p>
+<h3>Tools</h3> 
+<p>
+<img width="200px"  src="https://skillicons.dev/icons?i=discord,linkedin,gmail&perline=10"/>
+</p>
+<br/>
+<br/>
+
+#
+
+![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
+
+
+-----
