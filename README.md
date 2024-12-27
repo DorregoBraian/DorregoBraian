@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td >
-      <img  src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="GIF" width= "320" height= "240" />
+      <img  src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="GIF" width= "300" height= "220" />
   </td>
     <td>
       <pre>
