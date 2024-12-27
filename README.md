@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Dorrego Braian a Full Stack Developer from Argentina.<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">Hello! I'm Dorrego Braian a Full Stack Developer<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <br/>
 <br/>
   
@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td >
-      <img  src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="GIF"/>
+      <img  src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" height= "240" />
   </td>
     <td>
       <pre>
