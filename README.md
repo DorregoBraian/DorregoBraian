@@ -79,7 +79,7 @@ I-am-vishalmaurya@github
 ----
  
  <p>
-  <img width="300" align='right' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  <img width="300" align='right' src="https://github.com/user-attachments/assets/ce06fbbb-0ddd-44db-803e-f1081af31eb9">
 </p>
  
 ### Video game sales | Jul. 2024 - Dec. 2024
@@ -93,7 +93,7 @@ The main objective of this project was to learn and apply Angular, along with th
 ----
  
  <p>
-  <img width="300" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  <img width="300" align='left' src="https://github.com/user-attachments/assets/3210b54d-182a-457c-b184-909353d3ee97">
 </p>
  
 ### Clothing Store Ecommerce Project with Angular 17 | Ene 2024 - Mar 2024
@@ -105,7 +105,7 @@ This project was developed as part of my learning in Angular 17. It is an educat
 ----
  
  <p>
-  <img width="300" align='right' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  <img width="300" align='right' src="https://github.com/user-attachments/assets/987bafad-9606-49c7-8a4b-49dc07910191">
 </p>
  
 ### PokeCard | Jul. 2023 - Oct 2023
@@ -118,7 +118,7 @@ This project, Autonomous, is a store for selling Pokémon cards. Some things tha
 ----
  
  <p>
-  <img width="300" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  <img width="300" align='left' src="https://github.com/user-attachments/assets/036e954f-b142-413d-8da2-f82ca492e3ad">
 </p>
  
 ### Municipal Library | Jul. 2018 - Nov. 2018
