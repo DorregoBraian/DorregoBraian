@@ -46,7 +46,6 @@ I-am-vishalmaurya@github
 </a> &nbsp;&nbsp;
 <p>
 
-
 <br/>
 <br/>
 
@@ -90,10 +89,13 @@ The main objective of this project was to learn and apply Angular, along with th
 
 ----
 
+<br/>
+<br/>
+
 ----
  
  <p>
-  <img width="300" align='left' src="https://github.com/user-attachments/assets/3210b54d-182a-457c-b184-909353d3ee97">
+  <img width="270" align='left' src="https://github.com/user-attachments/assets/3210b54d-182a-457c-b184-909353d3ee97">
 </p>
  
 ### Clothing Store Ecommerce Project with Angular 17 | Ene 2024 - Mar 2024
@@ -101,6 +103,9 @@ The main objective of this project was to learn and apply Angular, along with th
 This project was developed as part of my learning in Angular 17. It is an educational web application for an online clothing store that allows users to browse, search, purchase products, and more. Throughout the development, I implemented several key functionalities using Angular 17 services, components, and directives, as well as integration with APIs to obtain data and manage user authentication. [Link Here](https://dorregobraian.github.io/Proyecto-Ecommerce-con-Angular-17/)
 
 ----
+
+<br/>
+<br/>
 
 ----
  
@@ -115,6 +120,10 @@ This project, Autonomous, is made with HTML, CSS and JQuery. The Pokémon RESTfu
 This project, Autonomous, is a store for selling Pokémon cards. Some things that are implemented are the favorites with the local storage, a series of filters to search with a specific characteristic, a form in which the idea is that the buyer and seller communicate. The cards have information and characteristics of the Pokémon which are extracted from the ApiPoke. [Link Here](https://dorregobraian.github.io/PokeCardStore/)
 
 ----
+
+<br/>
+<br/>
+
 ----
  
  <p>
@@ -126,6 +135,11 @@ This project, Autonomous, is a store for selling Pokémon cards. Some things tha
 This project is made with HTML, CSS and JavaScript in the Front-End. In the Back-End .Net Core was used with Entity Framework (EF) Core (ORM), SQL Server Database, Mapping Libraries like AutoMapper, Patterns like Dependency Injection, CQRS & Repository, It was based on the SOLID principles.
 
 This project, Universitario, is an online page for a fictitious municipality. In this project a user profile was implemented in which the user could rent books and see them in his profile. On the home page there is a list of books, the most popular ones and some publications. In the book list session 3 types of filters were implemented in which the user searches by author, title and date. The books can be bought or rented. [Link Here](https://github.com/DorregoBraian/LibreriaMunicipal)
+
+----
+
+<br/>
+<br/>
 
 ----
 
