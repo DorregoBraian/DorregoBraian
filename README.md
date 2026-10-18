@@ -16,16 +16,20 @@
   </td>
     <td>
       <pre>
-I-am-vishalmaurya@github
+I'm Braian Nahuel Dorrego
 -------------------------
-💻 I am a self-taught, Freelance full stack developer
-📚 I have a degree in Computer Engineering from the UNAJ University in Argentina
-📝 I have a great interest in the area of ​​Web and Mobile dev and Robotics
-🔭 I work as a Freelance Full Stack Developer
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: .net, EF.Core, C#, PosgreSQL, Angular
-🚩 Interested in developing full stack Web and Mobile Applications
-💖 I love coffee, music, the gym, games
+💻 I'm a Full Stack Developer with 2 years of professional experience
+in software development within an IT consulting environment.
+        <br/>
+🌟 My experience includes backend development with C# and ASP.NET Core,
+REST APIs, and data management workflows, as well as frontend.
+development with Angular and TypeScript.
+        <br/>
+📚 I'm currently pursuing a degree in Computer Engineering at the
+Universidad Nacional Arturo Jauretche (UNAJ), Argentina.
+        <br/>
+📝 I'm interested in building maintainable web applications, applying
+software design principles, and continuously improving my technical skills.
       </pre>
     </td>
   </tr>
