@@ -77,7 +77,7 @@ software design principles, and continuously improving my technical skills.
 <br/>
 <br/>
 
-<h1 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h1> 
+<h1 align="center">My Projects</h1> 
 
 ----
  
@@ -89,7 +89,7 @@ software design principles, and continuously improving my technical skills.
 
 This project is an application developed as part of my portfolio, where I sought to combine various technologies and skills that I have recently learned. Mainly, it is a platform for selling video games similar to Steam, developed with Angular for the frontend and several microservices in C# with .NET Core for the backend.
 
-The main objective of this project was to learn and apply Angular, along with the implementation of REST APIs, unit tests, and background tasks. This work allowed me not only to improve my technical knowledge, but also to understand the integration between frontend and backend systems in a professional environment. [Link Here](https://github.com/DorregoBraian/Proyecto-Venta-Videojuegos)
+The main objective of this project was to learn and apply Angular, along with the implementation of REST APIs, unit tests, and background tasks. This work allowed me not only to improve my technical knowledge, but also to understand the integration between frontend and backend systems in a professional environment. [Link Here](https://dorregobraian.github.io/Proyecto-Venta-Videojuegos)
 
 ----
 
