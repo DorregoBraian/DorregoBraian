@@ -143,7 +143,7 @@ Los datos de usuario se guardan en **Firestore**, las imágenes en **Firebase St
 
 #### 03 · Plataforma de venta de videojuegos
 
-<img align="left" width="360" src="https://github.com/user-attachments/assets/ce06fbbb-0ddd-44db-803e-f1081af31eb9" alt="Arquitectura hexagonal del backend de videojuegos" />
+<img align="left" width="360" src="./assets/videojuegos.svg" alt="Plataforma de venta de videojuegos - Gamelounge Gamestore" />
 
 **Full Stack · 2024**
 
@@ -304,7 +304,7 @@ User data is stored in **Firestore**, images in **Firebase Storage**, and cart/f
 
 #### 03 · Video Game Sales Platform
 
-<img align="left" width="360" src="https://github.com/user-attachments/assets/ce06fbbb-0ddd-44db-803e-f1081af31eb9" alt="Hexagonal architecture of the video game backend" />
+<img align="left" width="360" src="./assets/videojuegos.svg" alt="Video Game Sales Platform - Gamelounge Gamestore" />
 
 **Full Stack · 2024**
 

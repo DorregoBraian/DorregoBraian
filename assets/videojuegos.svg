@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0f"/>
+      <stop offset="50%" stop-color="#120c18"/>
+      <stop offset="100%" stop-color="#07070a"/>
+    </linearGradient>
+
+    <!-- Red Neon Glow -->
+    <radialGradient id="redGlow" cx="70%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#dc2626" stop-opacity="0.35"/>
+      <stop offset="50%" stop-color="#991b1b" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Blue DualSense Glow -->
+    <radialGradient id="blueGlow" cx="50%" cy="55%" r="35%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.6"/>
+      <stop offset="60%" stop-color="#1d4ed8" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Geometric Grid Pattern -->
+    <pattern id="geoGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ef4444" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+
+    <!-- Card Shadow -->
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.7"/>
+    </filter>
+  </defs>
+
+  <!-- Base Background -->
+  <rect width="800" height="500" fill="url(#bgGrad)"/>
+  <rect width="800" height="500" fill="url(#geoGrid)"/>
+  <rect width="800" height="500" fill="url(#redGlow)"/>
+
+  <!-- Geometric Red Neon Accents -->
+  <g fill="none" stroke="#ef4444" stroke-opacity="0.25" stroke-width="1.5">
+    <polygon points="700,30 780,100 740,160" fill="#ef4444" fill-opacity="0.05"/>
+    <polygon points="50,400 120,460 30,480" fill="#dc2626" fill-opacity="0.04"/>
+    <line x1="650" y1="0" x2="800" y2="150" stroke-opacity="0.4"/>
+    <line x1="0" y1="350" x2="150" y2="500" stroke-opacity="0.2"/>
+  </g>
+
+  <!-- Top Navigation Bar -->
+  <rect x="0" y="0" width="800" height="64" fill="#09090e" fill-opacity="0.9" stroke="#1f2937" stroke-width="1"/>
+  
+  <!-- Logo (Circular Gamelounge Gamestore) -->
+  <g transform="translate(36, 32)">
+    <circle cx="0" cy="0" r="18" fill="#181824" stroke="#ef4444" stroke-width="2"/>
+    <circle cx="0" cy="0" r="12" fill="#ef4444" fill-opacity="0.2"/>
+    <!-- Gamepad Icon inside logo -->
+    <path d="M-7 -3 L7 -3 C9 -3 10 -1 9 2 L6 7 C5 9 3 9 2 7 L0 4 L-2 7 C-3 9 -5 9 -6 7 L-9 2 C-10 -1 -9 -3 -7 -3 Z" fill="#ffffff" transform="scale(0.8)"/>
+  </g>
+  <text x="64" y="38" fill="#ffffff" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="800" letter-spacing="1">GAMELOUNGE</text>
+  <text x="64" y="50" fill="#ef4444" font-family="system-ui, -apple-system, sans-serif" font-size="9" font-weight="700" letter-spacing="2">GAMESTORE</text>
+
+  <!-- Nav Links -->
+  <g fill="#9ca3af" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600">
+    <text x="230" y="37" fill="#ffffff">Home</text>
+    <text x="285" y="37">Acerca de</text>
+    <text x="365" y="37">Juegos</text>
+    <text x="430" y="37">Contactos</text>
+  </g>
+
+  <!-- Auth Buttons -->
+  <g transform="translate(630, 20)">
+    <!-- Log in -->
+    <rect x="0" y="0" width="70" height="26" rx="4" fill="transparent" stroke="#374151" stroke-width="1"/>
+    <text x="35" y="17" fill="#d1d5db" font-family="system-ui, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Log in</text>
+    
+    <!-- Sign Up -->
+    <rect x="80" y="0" width="80" height="26" rx="4" fill="#dc2626"/>
+    <text x="120" y="17" fill="#ffffff" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">Sign Up</text>
+  </g>
+
+  <!-- Central Carousel / Hero Banner -->
+  <g transform="translate(80, 88)" filter="url(#shadow)">
+    <!-- Banner Card Background -->
+    <rect width="640" height="280" rx="12" fill="#111118" stroke="#1f2937" stroke-width="1.5"/>
+    <rect width="640" height="280" rx="12" fill="url(#blueGlow)"/>
+
+    <!-- DualSense Controller Graphic Representation -->
+    <g transform="translate(320, 150)">
+      <!-- Controller Body Glow -->
+      <ellipse cx="0" cy="15" rx="90" ry="45" fill="#2563eb" fill-opacity="0.3" filter="blur(15px)"/>
+      
+      <!-- Controller Shape Stylized -->
+      <path d="M-75 -10 C-75 -35 -40 -45 0 -45 C40 -45 75 -35 75 -10 C85 15 95 35 75 50 C55 65 35 45 25 30 C10 25 -10 25 -25 30 C-35 45 -55 65 -75 50 C-95 35 -85 15 -75 -10 Z" fill="#1e293b" stroke="#3b82f6" stroke-width="2"/>
+      
+      <!-- Touchpad / Center Light -->
+      <rect x="-30" y="-32" width="60" height="22" rx="4" fill="#0f172a" stroke="#60a5fa" stroke-width="1"/>
+      <line x1="-20" y1="-21" x2="20" y2="-21" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+
+      <!-- D-Pad & Buttons -->
+      <circle cx="-48" cy="-10" r="10" fill="#0f172a" stroke="#475569" stroke-width="1"/>
+      <circle cx="48" cy="-10" r="10" fill="#0f172a" stroke="#475569" stroke-width="1"/>
+      
+      <!-- Thumbsticks -->
+      <circle cx="-25" cy="15" r="12" fill="#0f172a" stroke="#3b82f6" stroke-width="1.5"/>
+      <circle cx="25" cy="15" r="12" fill="#0f172a" stroke="#3b82f6" stroke-width="1.5"/>
+    </g>
+
+    <!-- PS5 Logo & Tagline -->
+    <g transform="translate(60, 50)">
+      <!-- PS5 Badge -->
+      <rect x="0" y="0" width="64" height="28" rx="4" fill="#003791"/>
+      <text x="32" y="19" fill="#ffffff" font-family="system-ui, sans-serif" font-size="14" font-weight="900" text-anchor="middle" letter-spacing="1">PS5™</text>
+      
+      <!-- Tagline -->
+      <text x="0" y="65" fill="#ffffff" font-family="system-ui, sans-serif" font-size="28" font-weight="900" letter-spacing="2">THE FUTURE OF</text>
+      <text x="0" y="98" fill="#3b82f6" font-family="system-ui, sans-serif" font-size="32" font-weight="900" letter-spacing="3">GAMING</text>
+      
+      <text x="0" y="130" fill="#9ca3af" font-family="system-ui, sans-serif" font-size="12" font-weight="500">Experimenta nuevas realidades con retroalimentación háptica y gatillos adaptativos.</text>
+    </g>
+
+    <!-- Carousel Indicators (Dots) -->
+    <g transform="translate(320, 255)">
+      <circle cx="-20" cy="0" r="4" fill="#4b5563"/>
+      <circle cx="0" cy="0" r="6" fill="#ef4444"/>
+      <circle cx="20" cy="0" r="4" fill="#4b5563"/>
+    </g>
+  </g>
+
+  <!-- Lower Corner Promotional Boxes -->
+  <!-- Left Box: JOE DANGER 2 THE MOVIE -->
+  <g transform="translate(80, 388)" filter="url(#shadow)">
+    <rect width="310" height="85" rx="8" fill="#111118" stroke="#ef4444" stroke-opacity="0.4" stroke-width="1"/>
+    <!-- Thumbnail placeholder -->
+    <rect x="10" y="10" width="80" height="65" rx="6" fill="#1f2937"/>
+    <path d="M40 30 L60 42 L40 54 Z" fill="#ef4444"/>
+    <text x="102" y="32" fill="#ffffff" font-family="system-ui, sans-serif" font-size="13" font-weight="800">JOE DANGER 2</text>
+    <text x="102" y="48" fill="#9ca3af" font-family="system-ui, sans-serif" font-size="11" font-weight="600">THE MOVIE</text>
+    <rect x="102" y="58" width="55" height="18" rx="3" fill="#ef4444" fill-opacity="0.2"/>
+    <text x="129" y="70" fill="#ef4444" font-family="system-ui, sans-serif" font-size="9" font-weight="700" text-anchor="middle">SPECIAL</text>
+  </g>
+
+  <!-- Right Box: LIMBO -->
+  <g transform="translate(410, 388)" filter="url(#shadow)">
+    <rect width="310" height="85" rx="8" fill="#111118" stroke="#3b82f6" stroke-opacity="0.4" stroke-width="1"/>
+    <!-- Thumbnail placeholder -->
+    <rect x="10" y="10" width="80" height="65" rx="6" fill="#1f2937"/>
+    <circle cx="50" cy="42" r="12" fill="#ffffff" fill-opacity="0.9"/>
+    <circle cx="47" cy="40" r="2" fill="#000000"/>
+    <circle cx="53" cy="40" r="2" fill="#000000"/>
+    <text x="102" y="35" fill="#ffffff" font-family="system-ui, sans-serif" font-size="14" font-weight="800" letter-spacing="1">LIMBO</text>
+    <text x="102" y="54" fill="#9ca3af" font-family="system-ui, sans-serif" font-size="11" font-weight="600">Atmospheric Puzzle Platformer</text>
+    <rect x="102" y="62" width="45" height="16" rx="3" fill="#3b82f6" fill-opacity="0.2"/>
+    <text x="124" y="73" fill="#3b82f6" font-family="system-ui, sans-serif" font-size="9" font-weight="700" text-anchor="middle">INDIE</text>
+  </g>
+</svg>
