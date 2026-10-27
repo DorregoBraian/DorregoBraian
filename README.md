@@ -113,7 +113,7 @@ Actualmente curso **Ingeniería en Informática** en la **Universidad Nacional A
 
 #### 01 · File Architect
 
-<img align="right" width="360" src="./assets/file-architect.png" alt="File Architect - Extensión para Visual Studio" />
+<img align="right" width="360" src="./assets/file-architect.jpg" alt="File Architect - Extensión para Visual Studio" />
 
 **Developer Tooling · Visual Studio · 2026**
 
@@ -162,7 +162,7 @@ Los datos de usuario se guardan en **Firestore**, las imágenes en **Firebase St
 
 #### 04 · Plataforma de venta de videojuegos
 
-<img align="left" width="360" src="./assets/videojuegos.svg" alt="Plataforma de venta de videojuegos - Gamelounge Gamestore" />
+<img align="left" width="360" src="./assets/videojuegos.jpg" alt="Plataforma de venta de videojuegos - Gamelounge Gamestore" />
 
 **Full Stack · 2024**
 
@@ -297,7 +297,7 @@ I am currently studying **Computer Engineering** at **Universidad Nacional Artur
 
 #### 01 · File Architect
 
-<img align="right" width="360" src="./assets/file-architect.png" alt="File Architect - Visual Studio Extension" />
+<img align="right" width="360" src="./assets/file-architect.jpg" alt="File Architect - Visual Studio Extension" />
 
 **Developer Tooling · Visual Studio · 2026**
 
@@ -346,7 +346,7 @@ User data is stored in **Firestore**, images in **Firebase Storage**, and cart/f
 
 #### 04 · Video Game Sales Platform
 
-<img align="left" width="360" src="./assets/videojuegos.svg" alt="Video Game Sales Platform - Gamelounge Gamestore" />
+<img align="left" width="360" src="./assets/videojuegos.jpg" alt="Video Game Sales Platform - Gamelounge Gamestore" />
 
 **Full Stack · 2024**
 
