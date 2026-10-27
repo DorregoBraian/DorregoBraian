@@ -111,9 +111,26 @@ Actualmente curso **Ingeniería en Informática** en la **Universidad Nacional A
 
 ### Proyectos destacados
 
-#### 01 · Reset Programs
+#### 01 · File Architect
 
-**Automatización para Windows · 2026**
+<img align="right" width="360" src="./assets/file-architect.png" alt="File Architect - Extensión para Visual Studio" />
+
+**Developer Tooling · Visual Studio · 2026**
+
+Extensión para Visual Studio que genera esqueletos .NET con arquitecturas Hexagonal, Clean o MVC, vista previa en tiempo real y configuración inicial de proyectos.
+
+**Stack:** C# · WPF · .NET Framework · Visual Studio SDK  
+**Repositorio:** [ExtensionVSFileArchitect](https://github.com/DorregoBraian/ExtensionVSFileArchitect)
+
+<br clear="right" />
+
+---
+
+#### 02 · WingetPack
+
+<img align="left" width="360" src="./assets/reset-programs.jpg" alt="WingetPack - Automatización para Windows" />
+
+**Desktop · Automatización · 2026**
 
 Aplicación de escritorio para preparar un Windows recién instalado e instalar los programas habituales con **WinGet**. La interfaz permite seleccionar programas por categoría, detectar cuáles ya están instalados, seguir el progreso en tiempo real y revisar un resumen con logs.
 
@@ -122,11 +139,13 @@ No incluye instaladores: descarga los paquetes desde las fuentes configuradas en
 **Stack:** PowerShell · Windows Forms · WinGet · JSON  
 **Repositorio:** [winget-bundle-ninite](https://github.com/DorregoBraian/winget-bundle-ninite)
 
+<br clear="left" />
+
 ---
 
-#### 02 · RopaStore — E-commerce con Angular
+#### 03 · RopaStore — E-commerce con Angular
 
-<img align="right" width="360" src="https://github.com/user-attachments/assets/3210b54d-182a-457c-b184-909353d3ee97" alt="RopaStore - tienda de ropa online" />
+<img align="right" width="360" src="./assets/ropastore.jpg" alt="RopaStore - tienda de ropa online" />
 
 **Frontend · 2024**
 
@@ -141,9 +160,9 @@ Los datos de usuario se guardan en **Firestore**, las imágenes en **Firebase St
 
 ---
 
-#### 03 · Plataforma de venta de videojuegos
+#### 04 · Plataforma de venta de videojuegos
 
-<img align="left" width="360" src="./assets/videojuegos.jpg" alt="Plataforma de venta de videojuegos - Gamelounge Gamestore" />
+<img align="left" width="360" src="./assets/videojuegos.svg" alt="Plataforma de venta de videojuegos - Gamelounge Gamestore" />
 
 **Full Stack · 2024**
 
@@ -158,9 +177,9 @@ El backend está separado en una API REST principal, un servicio de testing y un
 
 ---
 
-#### 04 · PokeCardStore
+#### 05 · PokeCardStore
 
-<img align="right" width="360" src="https://github.com/user-attachments/assets/987bafad-9606-49c7-8a4b-49dc07910191" alt="PokeCardStore - tienda de cartas Pokémon" />
+<img align="right" width="360" src="./assets/pokecardstore.jpg" alt="PokeCardStore - tienda de cartas Pokémon" />
 
 **Frontend · 2023**
 
@@ -175,9 +194,9 @@ También incluye una implementación alternativa en **Vue 3** para comparar enfo
 
 ---
 
-#### 05 · Gestión de Biblioteca Municipal
+#### 06 · Gestión de Biblioteca Municipal
 
-<img align="left" width="360" src="https://github.com/user-attachments/assets/036e954f-b142-413d-8da2-f82ca492e3ad" alt="Gestión de Biblioteca Municipal" />
+<img align="left" width="360" src="./assets/biblioteca.jpg" alt="Gestión de Biblioteca Municipal" />
 
 **Full Stack · Proyecto académico · 2026**
 
@@ -192,13 +211,17 @@ La solución está separada en un frontend estático y una API REST en **.NET 6*
 
 ---
 
-#### 06 · Simulación de colonias de hormigas
+#### 07 · Simulación de colonias de hormigas
+
+<img align="right" width="360" src="./assets/simulacion-hormigas.svg" alt="Simulación de colonias de hormigas" />
 
 **Investigación · UNAJ · 2021**
 
 Participación en una beca de investigación para simular la obtención de alimentos en colonias de hormigas mediante técnicas de **Computación de Altas Prestaciones (HPC)**. El trabajo fue presentado en **CoNaIISI 2021**.
 
 **Stack:** HPC · Simulación · Investigación académica
+
+<br clear="right" />
 
 [Ver todos mis repositorios](https://github.com/DorregoBraian?tab=repositories)
 
@@ -272,9 +295,26 @@ I am currently studying **Computer Engineering** at **Universidad Nacional Artur
 
 ### Featured projects
 
-#### 01 · Reset Programs
+#### 01 · File Architect
 
-**Windows automation · 2026**
+<img align="right" width="360" src="./assets/file-architect.png" alt="File Architect - Visual Studio Extension" />
+
+**Developer Tooling · Visual Studio · 2026**
+
+Visual Studio extension that generates .NET boilerplates with Hexagonal, Clean, or MVC architectures, real-time preview, and initial configuration.
+
+**Stack:** C# · WPF · .NET Framework · Visual Studio SDK  
+**Repository:** [ExtensionVSFileArchitect](https://github.com/DorregoBraian/ExtensionVSFileArchitect)
+
+<br clear="right" />
+
+---
+
+#### 02 · WingetPack
+
+<img align="left" width="360" src="./assets/reset-programs.jpg" alt="WingetPack - Windows Automation" />
+
+**Windows Automation · 2026**
 
 Desktop application to prepare a fresh Windows installation and install common programs with **WinGet**. The interface lets users select programs by category, detect which ones are already installed, follow progress in real time, and review a summary with logs.
 
@@ -283,11 +323,13 @@ It does not bundle installers: it downloads packages from the sources configured
 **Stack:** PowerShell · Windows Forms · WinGet · JSON  
 **Repository:** [winget-bundle-ninite](https://github.com/DorregoBraian/winget-bundle-ninite)
 
+<br clear="left" />
+
 ---
 
-#### 02 · RopaStore — Angular E-commerce
+#### 03 · RopaStore — Angular E-commerce
 
-<img align="right" width="360" src="https://github.com/user-attachments/assets/3210b54d-182a-457c-b184-909353d3ee97" alt="RopaStore - online clothing store" />
+<img align="right" width="360" src="./assets/ropastore.jpg" alt="RopaStore - online clothing store" />
 
 **Frontend · 2024**
 
@@ -302,9 +344,9 @@ User data is stored in **Firestore**, images in **Firebase Storage**, and cart/f
 
 ---
 
-#### 03 · Video Game Sales Platform
+#### 04 · Video Game Sales Platform
 
-<img align="left" width="360" src="./assets/videojuegos.jpg" alt="Video Game Sales Platform - Gamelounge Gamestore" />
+<img align="left" width="360" src="./assets/videojuegos.svg" alt="Video Game Sales Platform - Gamelounge Gamestore" />
 
 **Full Stack · 2024**
 
@@ -319,9 +361,9 @@ The backend is split into a main REST API, a testing service, and a background j
 
 ---
 
-#### 04 · PokeCardStore
+#### 05 · PokeCardStore
 
-<img align="right" width="360" src="https://github.com/user-attachments/assets/987bafad-9606-49c7-8a4b-49dc07910191" alt="PokeCardStore - Pokémon card store" />
+<img align="right" width="360" src="./assets/pokecardstore.jpg" alt="PokeCardStore - Pokémon card store" />
 
 **Frontend · 2023**
 
@@ -336,9 +378,9 @@ It also includes an alternative implementation in **Vue 3** to compare developme
 
 ---
 
-#### 05 · Municipal Library Management
+#### 06 · Municipal Library Management
 
-<img align="left" width="360" src="https://github.com/user-attachments/assets/036e954f-b142-413d-8da2-f82ca492e3ad" alt="Municipal Library Management" />
+<img align="left" width="360" src="./assets/biblioteca.jpg" alt="Municipal Library Management" />
 
 **Full Stack · Academic project · 2026**
 
@@ -353,13 +395,17 @@ The solution is split into a static frontend and a **.NET 6** REST API with laye
 
 ---
 
-#### 06 · Ant Colony Simulation
+#### 07 · Ant Colony Simulation
+
+<img align="right" width="360" src="./assets/simulacion-hormigas.svg" alt="Ant Colony Simulation" />
 
 **Research · UNAJ · 2021**
 
 Research scholarship to simulate food gathering in ant colonies using **High-Performance Computing (HPC)** techniques. The work was presented at **CoNaIISI 2021**.
 
 **Stack:** HPC · Simulation · Academic research
+
+<br clear="right" />
 
 [View all my repositories](https://github.com/DorregoBraian?tab=repositories)
 
@@ -371,12 +417,6 @@ Research scholarship to simulate food gathering in ant colonies using **High-Per
 | 2023 | Python Full Stack | Codo a Codo GCBA |
 | 2022 | Foreign Language Training and Certification | Manuel Belgrano Scholarship |
 | 2019 | Network and Computer Security & Hacking | Universidad Nacional Arturo Jauretche (UNAJ) |
-
-#### Certifications & courses
-
-- **Python Full Stack** — Codo a Codo GCBA, 2023.
-- **Network and Computer Security & Hacking** — UNAJ, 2019.
-- **Foreign Language Training and Certification** — Manuel Belgrano Scholarship, 2022.
 
 ### How I work
 
